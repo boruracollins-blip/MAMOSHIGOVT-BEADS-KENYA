@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mamoshigovt Beads</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header <header>
+  <h1>Mamoshigovt Beads</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>>
+    <h1>Mamoshigovt Beads</h1>
+    <p>Handmade beads crafted with love from Mwihoko, Kiambu County</p>
+    <nav>
+      <a href="#catalog">Catalog</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Product Catalog -->
+    <section id="catalog">
+      <h2>Our Beads Collection</h2>
+      <p>Explore unique handmade beads available for local delivery.</p>
+      <p>📱 Order via WhatsApp: <a href="https://wa.me/254791419415">0791419415</a></p>
+    </section>
+
+    <!-- About Us -->
+    <section id="about">
+      <h2>Our Story</h2>
+      <p>
+        Selling beads is more than business — it’s art from the heart.  
+        At Mamoshigovt, we believe in the love of art and creativity, 
+        bringing beauty and culture together through beads.
+      </p>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>Email: <a href="mailto:boruracollins@gmali.com">boruracollins@gmali.com</a></p>
+      <p>Instagram: <a href="https://www.instagram.com/bead_art.kenya?igsh=MW5ta2pkcTVmZm1lYw==">bead_art.kenya</a></p>
+      <p>TikTok: <a href="https://vm.tiktok.com/ZS9YQpfT9S5Yy-MMYz9/">@bead_art.kenya</a></p>
+      <p>Location: Mwihoko, Kiambu County</p>
+      <p>Payment: M‑Pesa <strong>0791419415</strong></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Mamoshigovt Beads | SEO keywords: buy beads Kenya</p>
+  </footer>
+</body>
+</html>

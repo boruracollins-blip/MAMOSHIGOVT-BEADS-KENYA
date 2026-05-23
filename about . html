@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About Us - Mamoshigovt Beads</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header >
+    <h1>About Mamoshigovt Beads</h1><header>
+  <h1>Mamoshigovt Beads</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="gallery.html">Gallery</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <p>
+      Selling beads is more than business — it’s art from the heart.  
+      At Mamoshigovt, we believe in creativity and culture, bringing beauty together through beads.
+    </p>
+  </main>
+</body>
+</html>
